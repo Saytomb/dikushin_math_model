@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "math_model", "math_model\math_model.pyproj", "{B574541D-8FE2-45DD-BF3C-BF947BEDBFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B574541D-8FE2-45DD-BF3C-BF947BEDBFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B574541D-8FE2-45DD-BF3C-BF947BEDBFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE84CA3-9349-40CE-954D-467D0BF86634}
+	EndGlobalSection
+EndGlobal
